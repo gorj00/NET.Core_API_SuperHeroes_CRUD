@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NET.Core_SuperHeroes.props" />
+</Project>
